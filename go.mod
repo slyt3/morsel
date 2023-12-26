@@ -1,4 +1,4 @@
-module snippetbox.sly.net
+module morselbox.sly.net
 
 go 1.21.3
 
